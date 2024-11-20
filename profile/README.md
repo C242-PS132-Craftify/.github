@@ -4,24 +4,18 @@ Our primary research question was: How can we use technology to encourage childr
 
 ## Table of Contents
 
-- [Team Members](#teammembers)
+- [Team Members](#team-members)
 
 ## Team Members
 
 | COHORT ID         | MEMBERS NAME                         | INSTITUTION                      | 
 | ----------------- | ------------------------------------ | -------------------------------- | 
 | (ML) M014B4KY1861 |  I Made Treshnanda Mas               | Udayana University               | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (ML) M014B4KY4467 |  Wayan Farel Nickholas Sadewa        | Udayana University               | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (ML) M014B4KY1468 |  Febrian Valentino Agape             | Udayana University               | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (CC) C795B4KY2332 |  M. Alil Hamdani                     | STMIK Syaikh Zainuddin NW Anjani | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (CC) C403B4KY1815 |  I Gede Mickey Jiyestha Antha Wiguna |  Politeknik Negeri Bali          | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (MD) A403B4KY1813 |  I Gede Igo Wisnu Wardana            |  Politeknik Negeri Bali          | 
-| ----------------- | ------------------------------------ | -------------------------------- | 
 | (MD) A014B4KY1821 |  I Gusti Agung Ramananda Wira Dharma | Udayana University               | 
 
 <!--
