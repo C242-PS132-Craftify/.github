@@ -35,11 +35,11 @@ Lets get to know the awesome developers behind Craftify!
 ![Profile](https://github.com/user-attachments/assets/da7e7abd-6f4a-470b-ba6e-cb7344c05cba)
 
 ## Video Demonstration
-Check out this video on the demonstration of Craftify! -> "link youtube"
+Check out this video on the demonstration of Craftify! -> [Link Video](https://youtu.be/iqfqEullXzg?si=AORaJAReatWEr8zu)
 
 ## Try Craftify Now
 What are you waiting for? Get Craftify for your Android device and start your recycling journey! <br>
-Our app is available in this link -> "[Link App](https://drive.google.com/file/d/1H1Q50hUc-BTjr5ovFaMD5Hang-17OLgX/view?usp=drive_link)"
+Our app is available in this link -> [Link App](https://drive.google.com/file/d/1H1Q50hUc-BTjr5ovFaMD5Hang-17OLgX/view?usp=drive_link)
 <!--
 
 **Here are some ideas to get you started:**
